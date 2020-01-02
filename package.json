@@ -16,5 +16,8 @@
   },
   "dependencies": {
     "fullpage.js": "^3.0.8"
+  },
+  "scripts": {
+    "start": "node se"
   }
 }
